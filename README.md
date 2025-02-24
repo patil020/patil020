@@ -1,5 +1,5 @@
 
-# Ajinkya Patil - Data Scientist
+# Ajinkya Patil - 
 
 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white)](https://linkedin.com/in/ajinkya-patil-858027133) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/patil020)  
