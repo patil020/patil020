@@ -15,7 +15,8 @@
 
 ## 📝 About Me
 
-I’m a Data Scientist with a strong foundation in statistics, machine learning, and data analysis. My expertise spans developing recommendation systems, predictive models, and time series analyses that transform raw data into actionable insights. I am proficient in tools and languages such as Python, Pandas, Scikit-Learn, and TensorFlow, and have hands-on experience in full-cycle project development, from data preprocessing and modeling to deployment.
+Data Enthusiast with a solid foundation in machine learning, data analysis, and model development. Experienced in building recommendation systems, regression models, and conducting time series analysis through academic projects. Proficient in Python, Pandas, Scikit-Learn, and TensorFlow, with hands-on exposure to end-to-end workflows, from data collection to deployment. Passionate about uncovering insights and leveraging data to solve real-world problems.
+
 
 ---
 ---
